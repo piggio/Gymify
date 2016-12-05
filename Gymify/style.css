@@ -46,7 +46,21 @@ body {
 
 .btn{
     margin-left: 20px;
+    background-color: crimson;
+    color: aliceblue;
 }
+
+
+
+.btn:hover{
+    
+    
+    background-color:darkred;
+    color: aliceblue;
+}
+
+
+
 
 .galleria {
     padding-top: 80px;
@@ -56,6 +70,10 @@ body {
 .well h2 {
     color: #ECC035;
     margin-bottom: -30px;
+    font-family:  londrina solid;
+    font-size: 50px;
+    
+    
 }
 
 .thumbnail {
@@ -70,6 +88,9 @@ body {
 .galleria h4 {
     color: #ECC035;
     text-align: center;
+    font-family: londrina solid;
+    font-size: 40px;
+    
 }
 
 
