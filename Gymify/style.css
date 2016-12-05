@@ -76,6 +76,8 @@ body {
 .recensioni h3 {
     
     color: #ECC035;
+    font-family:  londrina solid;
+    font-size: 40px;
     
     
     
@@ -86,11 +88,15 @@ body {
 .recensioni h2{
     
     color: white;
+    font-family: helvetica neue;
+    font-weight:300;
     
 }
 .recensioni .text-center {
     
    color: #ECC035; 
+    font-family:  londrina solid;
+    font-size: 50px;
 }
 
 .recensioni{
