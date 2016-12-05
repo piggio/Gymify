@@ -38,8 +38,9 @@ body {
 }
 
 .form-group {
-    padding-top: 20px;
-    padding-left: 20px;
+        padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 178px;
 }
 
 .btn{
