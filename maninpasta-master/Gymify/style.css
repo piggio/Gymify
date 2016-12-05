@@ -1,0 +1,73 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+body {
+    background: url(img/gyms-in-barcelona.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+}
+
+.ricerca {
+    height: 400px;
+    background-color: #ECC035;
+    opacity: 0.8;
+    margin-top: 45px;
+}
+
+.container-fluid p {
+    text-align: center;
+    margin-top: 20px;
+    color: #ECC035;
+    font-size: 48px;
+    font-family: londrina solid;
+    
+}
+
+.container-fluid {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100px;
+}
+
+
+
+.slogan h1 {
+    color: #ECC035;
+    font-family: londrina solid;
+    font-size: 50px;
+    
+}
+
+
+.form-group {
+        padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 180px;
+}
+
+.btn{
+    margin-left: 20px;
+}
+
+.galleria {
+    padding-top: 80px;
+}
+
+
+h2 {
+    color: #ECC035;
+    margin-bottom: -30px;
+}
+
+.thumbnail {
+    background-color: transparent;
+}
+
+.well {
+        margin-top: 50px;
+        background-color: transparent;
+}
+
+h4 {
+    color: #ECC035;
+    text-align: center;
+}
