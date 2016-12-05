@@ -53,7 +53,7 @@ body {
 }
 
 
-h2 {
+.well h2 {
     color: #ECC035;
     margin-bottom: -30px;
 }
@@ -67,7 +67,43 @@ h2 {
         background-color: transparent;
 }
 
-h4 {
+.galleria h4 {
     color: #ECC035;
     text-align: center;
 }
+
+
+.recensioni h3 {
+    
+    color: #ECC035;
+    
+    
+    
+}
+
+
+
+.recensioni h2{
+    
+    color: white;
+    
+}
+.recensioni .text-center {
+    
+   color: #ECC035; 
+}
+
+.recensioni{
+    
+   margin-bottom: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    
+
+    
+    
+}
+
+
+.media {
+    margin-top: 15px;
+    margin-bottom: 20px;
